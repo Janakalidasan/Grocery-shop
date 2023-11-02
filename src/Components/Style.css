@@ -1,0 +1,563 @@
+.logo{
+    height: 45px;
+}
+.but Button {
+    width: 115px;
+    margin-left: -37px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #e01313;
+    height: 45px;
+}
+.navs-s-1{
+    display: none;
+}
+.news {
+    width: 380px !important;
+    height: 45px !important;
+}
+.news:focus{
+    outline: none !important;
+  box-shadow: none !important;
+}
+.navs-1{
+    display: flex;
+    align-items: center;
+}
+.navs-1 a {
+    margin-left: 40px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.navs-s{
+    display: flex;
+    justify-content: space-evenly;
+}
+.navs-s a{
+    cursor: pointer;
+    font-weight: 500;
+}
+.navs-s a:hover{
+    cursor: pointer;
+    font-weight: 500;
+    color: #e01313 !important;
+}
+/* hero */
+.cars{
+    margin-top: 30px;
+}
+.thumbs{
+    transform: translate3d(0px, 0px, 0px);
+    transition-duration: 350ms;
+    display: flex;
+    justify-content: center;
+}
+.thumb{
+    display: none !important;
+}
+.carousel .slide .legends {
+    display: flex;
+    top: 140px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: #e01313 !important;
+    color: white;
+    transition: all .5s ease-in-out;
+    position: absolute;
+    margin: 0 auto;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 12px;
+    text-align: center;
+    transition: opacity .35s ease-in-out;
+    margin-left: 35%;
+}
+.get-delvied {
+    margin-top: -32%;
+    font-size: 72px;
+    font-weight: bold;
+    color: #ffffff;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.organic{
+    color: #fff;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.shop-btn{
+    padding: 10px 20px 10px 20px;
+    border: none;
+    background-color: #e01313;
+    color: #fff;
+    border-radius: 10px;
+}
+.shop-btn{
+    padding: 10px 20px 10px 20px;
+    border: none;
+    background-color: #e01313;
+    color: #fff;
+    border-radius: 10px;
+}
+.shop-btn:hover{
+    background-color: #000;
+}
+.back{
+    height: 600px;
+}
+.category {
+    height: 150px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.cat{
+  display: flex;
+  justify-content: center;
+}
+/* second sec */
+.newthinks {
+    padding: 10px 0px 10px 20px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-image: linear-gradient(90deg, #fff 35% , #8985857a );
+    border: none !important;
+    box-shadow: 0px 2px 4px #8985857a;
+    cursor: pointer;
+}
+.first-org p:first-child{
+    color: #e01313;
+}
+.first-org h4{
+    font-weight: 900;
+    font-size: 20px;
+}
+.first-org p span{
+    color: #e01313;
+    font-weight: 600;
+}
+.delivaryman {
+    height: 157px;
+    margin-left: -10px;
+    margin-top: -20px;
+}
+.newthinks-1 {
+    padding: 10px 0px 10px 20px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-image: linear-gradient(90deg, #bde4f9 35% , #2186e57a );
+    border: none !important;
+    box-shadow: 0px 2px 4px #8985857a;
+    cursor: pointer;
+}
+.supermarket{
+    height: 145px;
+    margin-left: -44px;
+    margin-top: -9px;
+    border-radius: 10px;
+}
+.first-org p i{
+    font-size: 10px;
+}
+.newthinks-2 {
+    cursor: pointer;
+    padding: 10px 0px 10px 20px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+   background-color: #e0dddd57 !important;
+    border: none !important;
+    box-shadow: 0px 2px 4px #8985857a;
+}
+.supermarket-1 {
+    height: 145px;
+    margin-left: -90px;
+    margin-top: -9px;
+    border-radius: 10px;
+}
+.support h5{
+    margin-bottom: 0;
+    font-weight: 600 !important;
+}
+.support p{
+  font-size: 10px;
+}
+.support i{
+    font-size: 30px;
+    color: #e01313;
+}
+/* three */
+.topps{
+    margin-top: 30px;
+}
+.premium{
+    text-align: center;
+    font-size: 13px;
+}
+.carouselss .carousel .control-dots {
+    bottom: 0;
+    display: none;
+}
+.carouselss i{
+   color: rgb(223, 103, 6);
+}
+.dols{
+    color: #e01313;
+    font-weight: 700;
+}
+.sold{
+    display: flex;
+    justify-content: space-between;
+}
+.tracklie{
+    height: 10px !important;
+        width: 100% !important;
+        background-image: linear-gradient(to right, #ed0d0d 50%, transparent 50%)  !important;
+}
+.times{
+    display: flex;
+    justify-content: space-around;
+}
+.times p {
+    height: 50px;
+    width: 50px;
+    background-color: #bde4f9;
+    margin-bottom: 20px;
+}
+.sold p{
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.foodgro{
+    margin-bottom: 2px;
+}
+.back-1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.borde{
+    border: 1.5px solid #201e1e;
+    padding: 10px;
+}
+.carouselss .carousel.carousel-slider .control-arrow {
+    height: 73px;
+}
+.carousels-1 i{
+    color: rgb(223, 103, 6);
+}
+.shop-btn-1 {
+    padding: 10px 30px 10px 30px;
+    border: none;
+    background-color: #e01313;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 14px;
+}
+.shop-btn-1 i{
+ color: #fff;
+}
+.shop-btn-1:hover{
+    background-color: #000;
+}
+.fr{
+    margin-bottom: 10px;
+}
+.comp{
+    display: flex;
+    justify-content: space-evenly;
+}
+.re-for{
+    margin-bottom: 40px;
+}
+.carousels-1 .carousel .control-dots .dot {
+    background: #d90a0a !important;
+}
+.tast0card{
+  padding: 0px;
+  background-color: rgb(206 202 202) !important;
+  margin-bottom: 0px;
+}
+.lef-sev {
+    padding: 39px;
+    justify-content: center;
+    text-align: center;
+}
+.lef-sev p{
+    cursor: pointer;
+}
+.si-frs{
+    display: flex;
+    justify-content: end;
+}
+.lef-sev h4{
+    color: rgb(93, 87, 87);
+}
+.lef-sev h3{
+    font-weight: 700;
+    color: #000;
+}
+.sidefr{
+    height: 200px;
+}
+.yes{
+    margin-top: 50px;
+}
+.shops{
+    height: 200px;
+}
+.delb{
+    display: flex;
+    justify-content: end;
+}
+.tend{
+    margin-top: 20px;
+}
+.listout-1{
+    display: flex;
+    justify-content: space-between;
+}
+.listout{
+    display: flex;
+}
+.listout p{
+    margin-left: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.newsa{
+    margin-top: 30px;
+}
+.newsa .carousel .control-dots {
+    bottom: 0;
+    top: 354px;
+}
+.joinover{
+    text-align: center;
+   font-weight: 900;
+}
+.regis{
+    padding: 10px 30px 10px 30px;
+    border: none;
+    background-color: #e01313;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 14px;
+    margin-left: 41%;
+    margin-top: 20px;
+    cursor: pointer  !important;
+}
+.fullimgs{
+    width: 100%;
+    margin-top: -210px;
+}
+/* cards */
+.cardss{
+    margin-top: 30px;
+}
+.nethink{
+    padding: 0px;
+}
+.nethink h5{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.nethink p{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 17px;
+    padding: 0 20px 20px 20px;
+}
+.str{
+    text-align: center;
+}
+.str i{
+    color: rgb(223, 103, 6);
+}
+.frs{
+    text-align: center;
+    margin-bottom: 0;
+}
+.art{
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.lern{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.lastsec{
+    padding: 30px;
+    margin-top: 40px;
+    background-color: rgb(93 89 89 / 22%) !important;
+}
+.lastsec p{
+    text-align: center;
+    padding: 10px 190px 0px 190px;
+}
+.lastsec h2{
+text-align: center;
+font-weight: 700;
+}
+.sifooter{
+    margin-top: 50px;
+}
+.yesas{
+    width: 283px !important;
+}
+.buta{
+    display: flex;
+}
+.asa{
+    width: 100px !important;
+}
+.payment span{
+    font-weight: 900;
+}
+.la-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.consus{
+    font-weight: 700;
+}
+
+/* mobile */
+@media (max-width:540px){
+    .news {
+        width: 260px !important;
+        height: 45px !important;
+        margin-bottom: 14px;
+    }
+    .navs-s{
+        display: none;
+    }
+    .back{
+        height: 100%;
+    }
+    .carousel .slide .legends {
+        display: flex;
+        top: 20px;
+        width: 50%;
+        margin-left: 25%;
+        font-size: 10px;
+        height: 10px;
+    }
+    .get-delvied {
+        margin-top: -43%;
+        font-size: 25px;
+    }
+    .organic {
+        font-size: 10px;
+        margin-bottom: 0px;
+    }
+    .shop-btn {
+        font-size: 13px;
+        padding: 5px 15px 5px 15px;
+        border-radius: 5px; 
+    }
+    .allcats>div {
+     display: flex;
+     justify-content: center;
+    }
+    .foodgro {
+        font-size: 25px;
+    }
+    .premium {
+        font-size: 21px;
+    }
+    .sidefr {
+        height: 200px;
+        display: none;
+    }
+    .carousels-1 .carousel .slide {
+        height: 100vh;
+    }
+    .re-for {
+        margin-bottom: 40px;
+        margin-top: 25px;
+    }
+    .newsa .carousel .control-dots {
+        bottom: 0;
+        top: 700px;
+    }
+    .listout p {
+        margin-left: 35px;
+        margin-top: 20px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 12px;
+    }
+    .fullimgs {
+        width: 100%;
+        margin-top: -67px;
+    }
+    .cent{
+        margin-top: -190px;
+    }
+    .regis {
+        margin-left: 25%;
+    }
+    .lastsec p {
+        text-align: center;
+        padding: 0;
+    }
+    .la-footer {
+        display: block;
+
+    }
+    .comp{
+        margin-bottom: 20px;
+    }
+}
+
+/* 1500-1890 */
+@media (min-width:1500px) and (max-width:1890px){
+    .get-delvied {
+        margin-top: -25%;
+        font-size: 92px;
+    }
+    .supermarket {
+        margin-left: -18px;      
+    }
+}
+/* 1990px */
+@media (min-width:1900px){
+    .back{
+        height:800px!important;
+    }
+    .get-delvied {
+        margin-top: -32%;
+        font-size: 115px;
+    }
+    .organic {
+        font-size: 25px;
+    }
+    .shop-btn {
+        padding: 20px 50px 20px 50px;
+        border: none;
+        background-color: #e01313;
+        color: #fff;
+        border-radius: 10px;
+        font-size: 21px;
+    }
+    .carousel .slide .legends {
+        display: flex;
+        top: 140px;
+        height: 45px;
+        font-size: 22px;
+    }
+    .supermarket {
+        margin-left: -19px;      
+    }
+    .regis {
+        margin-left: 44%;
+    }
+    .joinover{
+        font-size: 50px;
+    }
+    
+}

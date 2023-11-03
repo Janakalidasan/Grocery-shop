@@ -428,9 +428,13 @@ font-weight: 700;
 /* mobile */
 @media (max-width:540px){
     .news {
-        width: 260px !important;
+        width: 225px !important;
         height: 45px !important;
         margin-bottom: 14px;
+    }
+    .times{
+        margin-top: 40px;
+        margin-bottom: -17px;
     }
     .navs-s{
         display: none;
@@ -495,8 +499,8 @@ font-weight: 700;
         width: 100%;
         margin-top: -67px;
     }
-    .cent{
-        margin-top: -190px;
+    .cent {
+        margin-top: -15px;
     }
     .regis {
         margin-left: 25%;
@@ -511,6 +515,17 @@ font-weight: 700;
     }
     .comp{
         margin-bottom: 20px;
+    }
+    .shops {
+        height: 164px;
+    }
+    .shop-btn-1 {
+        padding: 10px 3px 10px 3px;
+        border: none;
+        background-color: #e01313;
+        color: #fff;
+        border-radius: 10px;
+        font-size: 13px;
     }
 }
 
